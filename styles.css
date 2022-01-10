@@ -46,8 +46,8 @@ img{
     cursor: pointer;
     content:"";
     position:absolute;
-    width:380px;
-    height:380px;
+    width:350px;
+    height:350px;
     transition: all 0.5s;
 }
 
@@ -58,24 +58,24 @@ img{
 .card{
     display: flex;
     flex-direction: column;
-    margin: 30px auto;
-    width: 450px;
+    margin: 10px auto;
+    width: 400px;
     background-color: #15273f;
-    padding: 35px;
+    padding: 25px 25px 15px;
     border-radius: 18px;
 }
 
 
 .info{
-    margin-top: 20px;
+    margin-top: 10px;
     display: flex;
     flex-direction: column;
-    gap: 15px;
+    gap: 10px;
 }
 .info a{
     color: #fff;
     font-weight: 600;
-    font-size: 26px;
+    font-size: 22px;
     text-decoration: none;
     transition: all 0.5s;
 
@@ -91,7 +91,7 @@ img{
 
 .price , .date{
     display: flex;
-    gap: 10px;
+    gap: 5px;
     flex-grow: 1;
     align-items: center;
 }
@@ -109,14 +109,14 @@ img{
 
 }
 .container2{
-    margin-top: 20px;
+    margin-top: 10px;
     display: flex;
     justify-content: space-between;
     border-bottom: 1px solid rgba(255, 255, 255, 0.152);
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
 .author{
-    margin-top: 20px;
+    margin-top: 10px;
     display: flex;
     align-items: center;
     gap: 30px;

@@ -36,4 +36,4 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Author
 
-- Linkedin - [Nazareno del Rio](https://www.linkedin.com/in/nazareno-patricio-del-r%C3%ADo)
+- Linkedin - [Nazareno del Rio](https://www.linkedin.com/in/nazarenodelrio/)
